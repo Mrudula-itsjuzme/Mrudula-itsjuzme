@@ -51,7 +51,7 @@ Most of what I do is just experimenting, exploring, and trying to understand thi
       <td><b>Amrita Vishwa Vidyapeetham</b><br>Coimbatore</td>
       <td>B.Tech in Computer Science (AI)</td>
       <td>2024 - 2028 (Expected)</td>
-      <td>8.98/10</td>
+      <td>8.59/10</td>
     </tr>
     <tr>
       <td><b>Aakash Institute</b><br>Visakhapatnam</td>
