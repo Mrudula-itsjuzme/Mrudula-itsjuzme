@@ -1,89 +1,112 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c5c,50:1f7a8c,100:bfdbf7&height=170&section=header&text=Pedamallu%20Sai%20Mrudula&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,40:0d1b2a,70:111122,100:0b0b12&height=220&section=header&text=Pedamallu%20Sai%20Mrudula&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20NLP%20%C2%B7%20Computer%20Vision%20%C2%B7%20Security%20%C2%B7%20RL&descAlignY=62&descSize=15&descAlign=50&descColor=a0a0c0" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=600&color=1F7A8C&center=true&vCenter=true&width=700&lines=AI+Builder+%7C+CS+Undergraduate;NLP+%C2%B7+Computer+Vision+%C2%B7+Security+%C2%B7+RL;Building+practical+systems+with+clean+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+real+systems%2C+not+just+demos.;CSE+%28AI%29+%40+Amrita+Vishwa+Vidyapeetham.;Markerless+motion+capture.+IDS+pipelines.+LLM+workflows.;Open+to+internships+%26+research+collabs." alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI-1f7a8c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Student%20Researcher-0f4c5c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-8.59%2F10-2a9d8f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI)-2024–2028-0b0b12?style=for-the-badge&labelColor=0b0b12&color=00f5ff" />
+  <img src="https://img.shields.io/badge/CGPA-8.59%20%2F%2010-0b0b12?style=for-the-badge&labelColor=0b0b12&color=39ff88" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-0b0b12?style=for-the-badge&labelColor=0b0b12&color=ff2bd6" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mrudulasankar2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/simply_mrudula.06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=flat-square&logo=linkedin&logoColor=00f5ff&labelColor=0b0b12" />
+  </a>
+  &nbsp;
+  <a href="mailto:mrudulasankar2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mrudulasankar2007%40gmail.com-ff2bd6?style=flat-square&logo=gmail&logoColor=ff2bd6&labelColor=0b0b12" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/simply_mrudula.06">
+    <img src="https://img.shields.io/badge/Instagram-@simply__mrudula.06-39ff88?style=flat-square&logo=instagram&logoColor=39ff88&labelColor=0b0b12" />
+  </a>
 </p>
 
-## About Me
+---
 
-I am an AI-focused CSE undergraduate at Amrita Vishwa Vidyapeetham (2024-2028), interested in building systems that are both technically solid and useful in real-world settings.
+## `> whoami`
 
-My current project themes include:
+AI-focused CSE undergraduate at **Amrita Vishwa Vidyapeetham** (2024–2028), building practical, measurable systems across NLP, computer vision, cybersecurity analytics, and reinforcement learning.
 
-- applied NLP and conversational interfaces
-- multi-camera motion capture and kinematic analysis
-- smart-grid cyberattack detection and robust ML pipelines
-- practical model experimentation for CV and data-driven automation
+I care about two things: **engineering clarity** and **outcomes you can measure**.
 
-## Flagship Projects
+---
 
-| Project | Impact | Stack |
-| --- | --- | --- |
-| [Motion-Capture-System](https://github.com/Mrudula-itsjuzme/Motion-capture) | Real-time markerless multi-camera capture with 3D reconstruction and kinematic analytics. | Python, MediaPipe, CV |
-| [CyberAttackonSmartGrids](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids) | IDS and analysis workflow for IEC-104 smart-grid traffic with model benchmarking. | Python, ML, Security |
-| [EEG-Graph-Reconstruction](https://github.com/Mrudula-itsjuzme/D9_MFC4_EEGSignalReconstructionUsingSVD) | Signal reconstruction and noise reduction experiments for EEG quality improvement. | Python, Signal Processing |
-| [SolarpanelFaultDetection](https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection) | Data-driven fault detection workflow for renewable energy systems. | Python, ML |
-| [GenAI-Explore](https://github.com/Mrudula-itsjuzme/genai-explore) | Generative AI exploration with prompt workflows and LLM-based utilities. | Python, GenAI |
+## `> ls projects/`
 
-## Tech Stack
+| Project | What it does | Stack |
+|---|---|---|
+| [**Motion-Capture-System**](https://github.com/Mrudula-itsjuzme/Motion-capture) | Markerless multi-camera 3D motion capture with kinematic analytics | Python · MediaPipe · OpenCV |
+| [**CyberAttack on Smart Grids**](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids) | IDS-style detection pipeline for IEC-104 smart-grid traffic | Python · ML · Security |
+| [**EEG Graph Reconstruction**](https://github.com/Mrudula-itsjuzme/D9_MFC4_EEGSignalReconstructionUsingSVD) | Signal reconstruction & denoising for EEG data via SVD | Python · Signal Processing |
+| [**Solar Panel Fault Detection**](https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection) | Fault detection workflows for renewable energy systems | Python · ML |
+| [**GenAI-Explore**](https://github.com/Mrudula-itsjuzme/genai-explore) | LLM workflows, prompt engineering, and GenAI experiments | Python · LangChain · OpenAI |
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+---
 
-## Snapshot
+## `> cat stack.txt`
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true" height="160" />
-</p>
+**Languages**
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Mrudula-itsjuzme&hide_border=true" height="160" />
-</p>
+![Python](https://img.shields.io/badge/Python-00f5ff?style=flat-square&logo=python&logoColor=0b0b12&labelColor=0b0b12)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff2bd6?style=flat-square&logo=javascript&logoColor=0b0b12&labelColor=0b0b12)
+![C++](https://img.shields.io/badge/C++-39ff88?style=flat-square&logo=cplusplus&logoColor=0b0b12&labelColor=0b0b12)
 
-## Education and Highlights
+**AI / ML**
 
-- B.Tech CSE (AI), Amrita Vishwa Vidyapeetham, 2024-2028, CGPA 8.59/10
-- Co-author: "XX: Story from Foetus to Foeticide" (ISBN: 978-93-5605-245-1)
-- NASA Space Settlement Contest 2022, Literary Merit Second Prize
-- National Level Poetry Contest Winner, Digi Poetry India (2022)
+![PyTorch](https://img.shields.io/badge/PyTorch-00f5ff?style=flat-square&logo=pytorch&logoColor=0b0b12&labelColor=0b0b12)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff2bd6?style=flat-square&logo=tensorflow&logoColor=0b0b12&labelColor=0b0b12)
+![OpenCV](https://img.shields.io/badge/OpenCV-39ff88?style=flat-square&logo=opencv&logoColor=0b0b12&labelColor=0b0b12)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00f5ff?style=flat-square&logo=scikitlearn&logoColor=0b0b12&labelColor=0b0b12)
 
-## 2026 Goals
+**Web & Infra**
 
-- strengthen model evaluation and reproducible ML workflows
-- ship polished end-to-end flagship repositories
-- contribute consistently to collaborative and open-source projects
+![Flask](https://img.shields.io/badge/Flask-ff2bd6?style=flat-square&logo=flask&logoColor=0b0b12&labelColor=0b0b12)
+![React](https://img.shields.io/badge/React-39ff88?style=flat-square&logo=react&logoColor=0b0b12&labelColor=0b0b12)
+![Node.js](https://img.shields.io/badge/Node.js-00f5ff?style=flat-square&logo=nodedotjs&logoColor=0b0b12&labelColor=0b0b12)
+![Docker](https://img.shields.io/badge/Docker-ff2bd6?style=flat-square&logo=docker&logoColor=0b0b12&labelColor=0b0b12)
 
-## Open To
+---
 
-Research collaborations, internships, and engineering teams working on applied AI, NLP, CV, security, and AI-for-impact projects.
+## `> cat stats.log`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbf7,100:0f4c5c&height=120&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&bg_color=0b0b12&title_color=00f5ff&text_color=c9d1d9&icon_color=ff2bd6&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true&bg_color=0b0b12&title_color=00f5ff&text_color=c9d1d9&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mrudula-itsjuzme&hide_border=true&background=0B0B12&stroke=00F5FF&ring=FF2BD6&fire=39FF88&currStreakLabel=00F5FF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E" height="160" />
+</p>
+
+---
+
+## `> cat highlights.txt`
+
+- 🎓 &nbsp;B.Tech CSE (AI) — Amrita Vishwa Vidyapeetham · CGPA **8.59 / 10**
+- 📖 &nbsp;Co-author — *XX: Story from Foetus to Foeticide* (ISBN: 978-93-5605-245-1)
+- 🚀 &nbsp;NASA Space Settlement Contest 2022 — Literary Merit **Second Prize**
+
+---
+
+## `> cat open_to.txt`
+
+Looking for **internships**, **research collaborations**, and teams building AI that ships — especially in:
+
+`NLP` &nbsp;·&nbsp; `Computer Vision` &nbsp;·&nbsp; `Cybersecurity Analytics` &nbsp;·&nbsp; `AI for Impact`
+
+Reach me at **mrudulasankar2007@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345).
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b12,60:0d1b2a,100:0b0b12&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <sub>⚡ Built with intention. Shipped with precision.</sub>
 </p>
