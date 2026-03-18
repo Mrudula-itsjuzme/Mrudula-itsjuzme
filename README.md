@@ -23,8 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20(AI)-2024–2028-251508?style=for-the-badge&labelColor=251508&color=c97d3a" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.59%20%2F%2010-251508?style=for-the-badge&labelColor=251508&color=c97d3a" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-251508?style=for-the-badge&labelColor=251508&color=c97d3a" />
 </p>
 
@@ -34,8 +32,7 @@
 
 ### About
 
-AI-focused CSE undergraduate at **Amrita Vishwa Vidyapeetham** (2024–2028), building practical systems across NLP, computer vision, cybersecurity analytics, and reinforcement learning. CGPA **8.59 / 10**.
-
+AI-focused CSE undergraduate at **Amrita Vishwa Vidyapeetham** (2024–2028), building practical systems across NLP, computer vision, cybersecurity analytics, and reinforcement learning.
 I care about two things: **engineering clarity** and **outcomes you can measure**.
 
 ---
