@@ -114,6 +114,7 @@ I care about two things: **engineering clarity** and **outcomes you can measure*
 
 ### Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%"><strong>Languages</strong></td>
@@ -148,6 +149,7 @@ I care about two things: **engineering clarity** and **outcomes you can measure*
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
