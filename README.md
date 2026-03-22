@@ -83,14 +83,6 @@ I care about two things: **engineering clarity** and **outcomes you can measure*
 
 ---
 
-### Highlights
-
-- 🎓 &nbsp;B.Tech CSE (AI) · Amrita Vishwa Vidyapeetham · CGPA **8.59 / 10**
-- 📖 &nbsp;Co-author — *XX: Story from Foetus to Foeticide* (ISBN: 978-93-5605-245-1)
-- 🚀 &nbsp;NASA Space Settlement Contest 2022 — Literary Merit **Second Prize**
-
----
-
 ### Open To
 
 Internships, research collaborations, and teams building practical AI systems in **NLP**, **Computer Vision**, **Cybersecurity**, and **AI for Impact**.
