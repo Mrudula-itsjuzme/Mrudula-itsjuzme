@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="mailto:mrudulasankar2007@gmail.com">
@@ -187,7 +187,7 @@ Internships, research collaborations, and teams building practical AI systems in
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" />
   </a>
 </p>
 
