@@ -1,176 +1,172 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101d2f,100:162447&height=220&section=header&text=Pedamallu%20Sai%20Mrudula&fontSize=44&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Cybersecurity%20%7C%20Computer%20Vision%20%7C%20Speech%20Intelligence%20%7C%20Signal%20Processing&descAlignY=60&descSize=15&descAlign=50&descColor=58a6ff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=58a6ff&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+survive+outside+the+notebook.;First-author+IEEE+Access+researcher.;CSE+(AI)+%40+Amrita+Vishwa+Vidyapeetham+%7C+2024%E2%80%932028.;Open+to+AI%2FML+internships+and+research+collaborations." />
-</p>
+```
+██████╗ ███████╗██████╗  █████╗ ███╗   ███╗ █████╗ ██╗     ██╗     ██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗██║     ██║     ██║   ██║
+██████╔╝█████╗  ██║  ██║███████║██╔████╔██║███████║██║     ██║     ██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██║██║╚██╔╝██║██╔══██║██║     ██║     ██║   ██║
+██║     ███████╗██████╔╝██║  ██║██║ ╚═╝ ██║██║  ██║███████╗███████╗╚██████╔╝
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+```
 
-<p align="center">
-  <a href="mailto:mrudulasankar2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedamallusaimrudula">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/Mrudula-itsjuzme">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117" />
-  </a>
-</p>
+**`SAI MRUDULA`** — AI Engineer · B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham · CGPA 8.33
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345)
+[![Email](https://img.shields.io/badge/Email-mrudulasankar2007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrudulasankar2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mrudula--itsjuzme-181717?style=flat-square&logo=github)](https://github.com/Mrudula-itsjuzme)
+![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Research-22c55e?style=flat-square)
+
+</div>
 
 ---
 
-## About Me
+## Who I am
 
-I’m **Pedamallu Sai Mrudula**, a B.Tech student in **Computer Science and Engineering with Artificial Intelligence** at **Amrita Vishwa Vidyapeetham, Coimbatore**.
+I'm a first-year CSE (AI) student building systems that actually work — not just notebooks that run once.  
+My work spans **computer vision**, **NLP/speech**, **cybersecurity analytics**, and **signal processing**, with a hard preference for things you can measure: latency numbers, accuracy figures, error rates.
 
-I build AI systems across **cybersecurity, computer vision, speech intelligence, and biomedical signal processing**.  
-My focus is simple: not just models that look good in a notebook, but systems with measurable performance, clean pipelines, and real-world constraints.
+I have a **first-author publication in IEEE Access**, a dual-camera motion capture system running at 30 FPS, and a spoken language intelligence platform doing real-time NLP in the browser. These aren't toy demos.
 
-Currently exploring:
-
-- Privacy-aware intrusion detection for smart-grid networks  
-- Real-time markerless 3D motion capture  
-- Spoken language intelligence and live communication feedback  
-- EEG signal reconstruction using graph learning and optimization  
+Currently looking for: **internships, research collaborations, and teams building practical AI**.
 
 ---
 
 ## Featured Work
 
-<table>
-<tr>
-<td width="50%">
+### 🔒 Smart Grid Intrusion Detection — *IEEE Access (First Author)*
+> `Python` `Scikit-learn` `XGBoost` `SHAP` `RFE` `PCA` `Wireshark`
 
-### Smart Grid Intrusion Detection  
-**Python · Machine Learning · Cybersecurity · Explainable AI**
+Privacy-aware IDS for IEC 60870-5-104 SCADA network traffic — the protocol that runs real power grids.
 
-First-author IEEE Access research project for privacy-aware intrusion detection in smart-grid communication networks.
+- Designed a hybrid anomaly-detection + classification pipeline with SHAP-driven feature selection, RFE, and PCA
+- **99.29% accuracy · 94.8% recall · 4.1% FPR** on unseen attack patterns
+- Also published in **Energy Conversion and Management**
 
-- Built hybrid anomaly detection and classification pipeline
-- Used SHAP, RFE, and PCA for explainability and feature optimization
-- Achieved **99.29% accuracy**, **94.8% recall**, and **4.1% FPR**
+📎 [Repository →](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids)
 
-<a href="https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids">View Repository →</a>
+---
 
-</td>
-<td width="50%">
+### 🎥 Real-Time Markerless Multimodal Motion Capture
+> `MediaPipe` `PyTorch` `OpenCV` `ZMQ` `ArUco` `SQLite`
 
-### Real-Time Markerless Motion Capture  
-**MediaPipe · PyTorch · OpenCV · ZMQ · SQLite**
+Dual-camera 3D motion capture — no suit, no markers, real-time.
 
-Dual-camera 3D motion capture system for real-time biomechanical analysis.
+- **25–30 FPS** throughput · **±1–2 cm** 3D accuracy
+- GPU-based triangulation at **5 ms/frame** · streaming latency **< 100 ms** via ZMQ
+- 8-stage pipeline: 33-point 3D pose → joint kinematics → biomechanical feature extraction
+- Adaptive 1-Euro filtering + ArUco calibration (**< 1 px reprojection error**) · SQLite storage for longitudinal analysis
 
-- Runs at **25–30 FPS**
-- Achieves approximately **±1–2 cm accuracy**
-- Uses GPU-based triangulation, ArUco calibration, and adaptive filtering
-- Generates 33-point 3D pose, joint kinematics, and structured analysis data
+📎 [Repository →](https://github.com/Mrudula-itsjuzme/Motion-capture)
 
-<a href="https://github.com/Mrudula-itsjuzme/Motion-capture">View Repository →</a>
+---
 
-</td>
-</tr>
+### 🎙️ MisSpoke — Real-Time Spoken Language Intelligence
+> `Speech Processing` `NLP` `Agora` `Streaming Pipeline`
 
-<tr>
-<td width="50%">
+Live speech analysis platform that gives you feedback *while* you're talking.
 
-### MisSpoke  
-**Speech Processing · NLP · Real-Time AI**
+- Real-time transcription with fluency scoring, filler-word detection, and confidence analysis
+- Streaming NLP pipeline for continuous processing — no batch delays
+- Interactive feedback loop: contextual suggestions on clarity, pacing, and articulation during live conversation
 
-A spoken language intelligence system for live transcription and communication feedback.
+---
 
-- Tracks fluency, filler-word usage, pacing, and confidence
-- Provides contextual suggestions during conversations
-- Built around streaming NLP and low-latency feedback loops
+### 🧠 EEG Signal Reconstruction via Graph Learning (ADMM)
+> `Python` `NumPy` `SciPy` `Graph Signal Processing`
 
-<a href="https://github.com/Mrudula-itsjuzme/speak">View Repository →</a>
+Signal reconstruction as a graph-regularized optimization problem — solved with ADMM.
 
-</td>
-<td width="50%">
+- Handles **10–90% missing data** across EEG channels
+- **65% RMSE reduction** (1.0 → 0.35) · SNR up to **9.34 dB**
+- Graph smoothness priors model inter-channel relationships for stable neural signal recovery
 
-### EEG Signal Reconstruction  
-**Graph Signal Processing · ADMM · Optimization**
+📎 [Repository →](https://github.com/Mrudula-itsjuzme/D9_MFC4_EEGSignalReconstructionUsingSVD)
 
-EEG reconstruction system using graph-regularized optimization.
+---
 
-- Reconstructs signals under **10–90% missing data**
-- Reduced RMSE from **1.0 to 0.35**
-- Preserved signal quality with SNR up to **9.34 dB**
+### 🧬 Cancer Driver Gene Classification
+> `Python` `Scikit-learn` `XGBoost` `LightGBM` `Pandas`
 
-<a href="https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM">View Repository →</a>
+ML pipeline for classifying oncogenic driver genes from genomic data.
 
-</td>
-</tr>
-</table>
+📎 [Repository →](https://github.com/Mrudula-itsjuzme/cancer-driver-gene-classification-ml)
+
+---
+
+### 🎮 Tic-Tac-Toe — Double DQN Agent
+> `Python` `PyTorch` `Reinforcement Learning`
+
+RL agent trained with Double DQN for optimal game strategy — experience replay, target network, the works.
+
+📎 [Repository →](https://github.com/Mrudula-itsjuzme/tic-tac-toe-double-dqn)
+
+---
+
+### 🌱 AI Greenhouse + Solar Panel Fault Detection
+> `Python` `TensorFlow` `IoT` `OpenCV`
+
+Two applied ML systems: intelligent greenhouse environment control, and automated fault detection for solar arrays.
+
+📎 [Greenhouse →](https://github.com/Mrudula-itsjuzme/ai_greenhouse) · [Solar →](https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection)
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=58a6ff" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=58a6ff" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Rasa-0d1117?style=for-the-badge&logo=rasa&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff" />
-</p>
+| Domain | Tools |
+|---|---|
+| **Languages** | Python · JavaScript · C++ · C · SQL |
+| **ML / DL** | PyTorch · TensorFlow · Scikit-learn · XGBoost · LightGBM |
+| **Vision & Signal** | OpenCV · MediaPipe · NumPy · SciPy |
+| **NLP / GenAI** | LangChain · Rasa · Prompt Engineering |
+| **Web & Infra** | Flask · React · Node.js · Docker · Supabase |
+| **Tools** | Git · Linux · Wireshark · ZMQ · SQLite |
 
 ---
 
-## Research & Achievements
+## Experience
 
-- First-author publication in **IEEE Access** on smart-grid intrusion detection
-- Publication in **Energy Conversion and Management**
-- **4th Place** — Agora GDG Hackathon
-- **NASA Space Settlement Contest 2022**
-- Co-founder and Vice President of **Init Club**, a student-led technical initiative
+**AI Chatbots Intern — Academy of Robotics Pvt. Ltd.** *(Jul–Sep 2024)*  
+Built conversational chatbots with Rasa: intent classification, entity recognition, dialogue flows, prompt-engineered interaction design.
+
+---
+
+## Highlights
+
+| | |
+|---|---|
+| 📄 **IEEE Access** | First-author publication — Smart Grid IDS |
+| 📄 **Energy Conversion & Management** | Co-author publication |
+| 🏆 **GDG Agora Hackathon** | 4th Place |
+| 🚀 **NASA Space Settlement Contest 2022** | Literary Merit — 2nd Prize |
+| 📖 **Co-author** | *XX: Story from Foetus to Foeticide* (ISBN: 978-93-5605-245-1) |
+| 🎓 **Init Club** | Co-founder & Vice President — Amrita Vishwa Vidyapeetham |
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=388bfd&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" height="160" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mrudula-itsjuzme&hide_border=true&background=0d1117&stroke=162447&ring=58a6ff&fire=388bfd&currStreakLabel=58a6ff&sideNums=e6edf3&currStreakNum=ffffff&dates=8b949e" height="160" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=388bfd&include_all_commits=true&count_private=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" height="160" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mrudula-itsjuzme&hide_border=true&background=0d1117&stroke=162447&ring=58a6ff&fire=388bfd&currStreakLabel=58a6ff&sideNums=e6edf3&currStreakNum=ffffff&dates=8b949e" height="160" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrudula-itsjuzme&bg_color=0d1117&color=e6edf3&line=58a6ff&point=388bfd&area=true&area_color=162447&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
-## Let’s Connect
+<div align="center">
 
-I’m open to **AI/ML internships, research collaborations, and projects involving applied machine learning, cybersecurity, computer vision, speech systems, and signal processing**.
+**Building practical AI. Measuring everything. Open to collaborations.**
 
-<p align="center">
-  <a href="mailto:mrudulasankar2007@gmail.com">
-    <img src="https://img.shields.io/badge/mrudulasankar2007@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedamallusaimrudula">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/mrudulasankar2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudulasankar2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrudula-itsjuzme&style=for-the-badge&color=162447&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:162447,50:101d2f,100:0d1117&height=120&section=footer" />
-</p>
+</div>
