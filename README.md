@@ -179,9 +179,9 @@ Built Rasa-based conversational agents: intent classification, entity recognitio
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Activity" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Activity" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=donut&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&custom_title=Languages" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=donut&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&custom_title=Languages" />
 
 <br/><br/>
 
@@ -195,7 +195,7 @@ Built Rasa-based conversational agents: intent classification, entity recognitio
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<sub>↑ contribution snake — enable via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in your profile repo</sub>
+
 
 </div>
 
