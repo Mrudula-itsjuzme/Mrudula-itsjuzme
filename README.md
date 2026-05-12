@@ -1,19 +1,17 @@
 <div align="center">
 
 ```
-______  _____ ______   ___  ___  ___  ___   _      _      _   _
-| ___ \|  ___||  _  \ / _ \ |  \/  | / _ \ | |    | |    | | | |
-| |_/ /| |__  | | | |/ /_\ \| .  . |/ /_\ \| |    | |    | | | |
-|  __/ |  __| | | | ||  _  || |\/| ||  _  || |    | |    | | | |
-| |    | |___ | |/ / | | | || |  | || | | || |____| |____| |_| |
-\_|    \____/ |___/  \_| |_/\_|  |_/\_| |_/\_____/\_____/ \___/
+PPPPPP  EEEEEEE DDDDD     AAA   MM    MM   AAA   LL      LL      UU   UU
+PP   PP EE      DD  DD   AAAAA  MMM  MMM  AAAAA  LL      LL      UU   UU
+PPPPPP  EEEEE   DD   DD AA   AA MM MM MM AA   AA LL      LL      UU   UU
+PP      EE      DD   DD AAAAAAA MM    MM AAAAAAA LL      LL      UU   UU
+PP      EEEEEEE DDDDDD  AA   AA MM    MM AA   AA LLLLLLL LLLLLLL  UUUUU
 
- _____   ___   _____  ___  _________  _   _ ______  _   _  _       ___
-/  ___| / _ \ |_   _| |  \/  || ___ \| | | ||  _  \| | | || |     / _ \
-\ `--. / /_\ \  | |   | .  . || |_/ /| | | || | | || | | || |    / /_\ \
- `--. \|  _  |  | |   | |\/| ||    / | | | || | | || | | || |    |  _  |
-/\__/ /| | | | _| |_  | |  | || |\ \ | |_| || |/ / | |_| || |____| | | |
-\____/ \_| |_/ \___/  \_|  |_/\_| \_| \___/ |___/   \___/ \_____/\_| |_/
+ SSSSS    AAA   IIIII          MM    MM RRRRRR  UU   UU DDDDD   UU   UU LL        AAA
+SS       AAAAA   III           MMM  MMM RR   RR UU   UU DD  DD  UU   UU LL       AAAAA
+ SSSSS  AA   AA  III           MM MM MM RRRRRR  UU   UU DD   DD UU   UU LL      AA   AA
+     SS AAAAAAA  III           MM    MM RR  RR  UU   UU DD   DD UU   UU LL      AAAAAAA
+ SSSSS  AA   AA IIIII          MM    MM RR   RR  UUUUU  DDDDDD   UUUUU  LLLLLLL AA   AA
 ```
 
 **AI Engineer · B.Tech CSE (AI) @ Amrita Vishwa Vidyapeetham · CGPA 8.33**
