@@ -23,13 +23,7 @@
 class SaiMrudula:
     institution = "Amrita Vishwa Vidyapeetham · B.Tech CSE (AI)"
     location = "India"
-    focus = [
-        "Applied Machine Learning",
-        "Computer Vision",
-        "Cybersecurity Analytics",
-        "Biomedical Signal Processing",
-        "Conversational AI"
-    ]
+    focus = ["Applied ML", "Computer Vision", "Cybersecurity Analytics", "Biomedical Signals", "Conversational AI"]
     looking_for = ["AI/ML internships", "research collaborations", "teams building useful systems"]
 
     def build_style(self):
@@ -52,6 +46,19 @@ I build applied AI systems that combine engineering, experimentation, and readab
 | [Solar Panel Fault Detection](https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection) | CNN-based computer-vision workflow for identifying visual faults in solar panels | Python, CNNs, image processing |
 | [AI Greenhouse](https://github.com/Mrudula-itsjuzme/ai_greenhouse) | IoT desktop app for plant monitoring, Arduino sensor input, analytics, and automation | Python, PyQt5, Arduino |
 | [Double DQN Tic-Tac-Toe](https://github.com/Mrudula-itsjuzme/tic-tac-toe-double-dqn) | Reinforcement-learning project using Double DQN to train a game-playing agent | Python, RL, neural networks |
+
+---
+
+## 🔗 Evidence board
+
+| Project | Repo | Paper / Reference | Demo / Deployment | Dataset / Results |
+|---|---|---|---|---|
+| Smart Grid IDS | [Repo](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids) | [IEEE reference](https://ieeexplore.ieee.org/document/11083563) | Demo video: not uploaded yet | IEC-104 smart-grid traffic; result plots in `results/`, `IEEE_Plots/`, and `Graphs/` |
+| Motion Capture | [Repo](https://github.com/Mrudula-itsjuzme/Motion-capture) | Research/prototype project | Demo video: add to repo releases or README when finalized | Offline videos/webcam streams; diagnostics in `analysis_results/` |
+| MisSpoke | [Repo](https://github.com/Mrudula-itsjuzme/speak134) | ElevenLabs Challenge build | Deployment link: add after hosting | User-session data stored through Supabase/IndexedDB; screenshots pending |
+| EEG ADMM | [Repo](https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM) | Local graph + ADMM reconstruction study | Demo video: not uploaded yet | EEG-128channels ERP Lanzhou dataset; result images in `images/` |
+| EEG SVD | [Repo](https://github.com/Mrudula-itsjuzme/EEG-signal-reconstruction-using-SVD) | [SVD EEG paper DOI](https://doi.org/10.1016/S0165-1684(96)00129-6) | Demo video: not uploaded yet | Simulated EEG/EOG mixtures; SNR results documented in README |
+| Portfolio Site | [Repo](https://github.com/Mrudula-itsjuzme/portfolio-site) | Personal portfolio project | Deployment link: add after GitHub Pages/Vercel deployment | Screenshots pending |
 
 ---
 
