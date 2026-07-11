@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedamallusaimrudula)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudulasankar2007@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20Internships%20%26%20Research-22c55e?style=for-the-badge)](mailto:mrudulasankar2007@gmail.com)
 
 </div>
