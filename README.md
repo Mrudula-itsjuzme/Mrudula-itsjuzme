@@ -32,6 +32,7 @@ I like keeping the messy middle visible too: benchmarks, failed assumptions, wei
 `signals` EEG reconstruction  
 `security` smart-grid IDS  
 `voice` MisSpoke  
+`systems` finance / infra experiments  
 `research` applied ML
 
 </td>
@@ -49,7 +50,7 @@ I like keeping the messy middle visible too: benchmarks, failed assumptions, wei
 #### ◌ [3D Motion Capture](https://github.com/Mrudula-itsjuzme/Motion-capture)
 Markerless motion capture using ordinary cameras, with pose tracking, stabilization, 3D reconstruction, gait analysis, and validation tooling.
 
-<sub>computer vision · geometry · gait</sub>
+<sub>computer vision · geometry · gait · OpenCV · MediaPipe · Python</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +58,7 @@ Markerless motion capture using ordinary cameras, with pose tracking, stabilizat
 #### ◌ [Smart Grid Cyberattack Detection](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids)
 Machine-learning based intrusion detection for IEC-104 smart-grid traffic. This work also became my first-author IEEE Access paper.
 
-<sub>cybersecurity · machine learning</sub>
+<sub>cybersecurity · machine learning · scikit-learn · Python</sub>
 
 </td>
 </tr>
@@ -67,7 +68,7 @@ Machine-learning based intrusion detection for IEC-104 smart-grid traffic. This 
 #### ◌ [EEG Reconstruction with ADMM](https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM)
 A graph-signal-processing approach to reconstructing missing EEG data using local graphs and ADMM.
 
-<sub>signal processing · optimization</sub>
+<sub>signal processing · optimization · NumPy · SciPy · MNE</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +76,81 @@ A graph-signal-processing approach to reconstructing missing EEG data using loca
 #### ◌ [MisSpoke](https://github.com/Mrudula-itsjuzme/speak134)
 A voice-first language-learning experiment with conversational tutors, translation, memory, and learning analytics.
 
-<sub>voice · language learning · product</sub>
+<sub>Next.js · React · TypeScript · Supabase · voice AI</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### the stack, without the sticker wall
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### languages
+
+`Python` `TypeScript` `JavaScript`  
+`C` `SQL`
+
+</td>
+<td width="33%" valign="top">
+
+#### ml / vision / signals
+
+`PyTorch` `TensorFlow` `scikit-learn`  
+`OpenCV` `MediaPipe` `NumPy` `SciPy` `MNE`
+
+</td>
+<td width="34%" valign="top">
+
+#### web / systems
+
+`React` `Next.js` `Node.js`  
+`Supabase` `PostgreSQL` `Docker` `Linux`
+
+</td>
+</tr>
+</table>
+
+<sub>I use tools when a project needs them; this is the set that shows up repeatedly in my work, not a collection of logos I touched once.</sub>
+
+---
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+### more things I've built / studied
+
+**Computer vision**  
+solar-panel fault detection · aircraft detection · motion capture
+
+**Biomedical + signals**  
+EEG reconstruction · EEG denoising · biosignal experiments
+
+**Language + conversational systems**  
+MisSpoke · Rasa chatbot work · language tutor experiments
+
+**Learning systems**  
+Double DQN Tic-Tac-Toe · smaller ML benchmarking projects
+
+**IoT + apps**  
+AI greenhouse · frontend/product experiments · small web tools
+
+</td>
+<td width="44%" valign="top">
+
+### things I care about when building
+
+- evaluation before pretty demos
+- knowing when a model should abstain
+- making noisy data less deceptive
+- reproducible experiments
+- interfaces that expose useful uncertainty
+- keeping prototypes understandable enough to tear apart later
 
 </td>
 </tr>
@@ -100,7 +175,7 @@ Energy Conversion and Management: X · 2025
 
 ### elsewhere in the repo pile
 
-EEG processing · reinforcement learning · computer vision · chatbots · IoT · web experiments
+There are also smaller experiments in reinforcement learning, optimization, chatbots, IoT, systems, and frontend work.
 
 Some are polished. Some are archaeological evidence of me learning something.
 
