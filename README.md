@@ -4,79 +4,107 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pedamallusaimrudula">linkedin</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:mrudulasankar2007@gmail.com">email</a>
+<a href="https://www.linkedin.com/in/pedamallusaimrudula">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mrudulasankar2007@gmail.com">
+  <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Mrudula-itsjuzme">
+  <img src="https://img.shields.io/badge/github-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/research-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/systems-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/experiments-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/computer_vision-14b8a6?style=flat-square" />
+<img src="https://img.shields.io/badge/applied_ML-f59e0b?style=flat-square" />
+<img src="https://img.shields.io/badge/signal_processing-ef4444?style=flat-square" />
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## about
 
-### what I'm around lately
+I’m an AI student who likes building things that sit somewhere between **research, engineering, and experiments that refuse to stay small**.
 
-Mostly machine learning, computer vision, signal processing, and systems that begin as a research question and accidentally become software.
+A lot of what I work on lives around:
 
-Current rabbit holes include **markerless motion capture**, deep-learning experiments, and making model outputs easier to inspect rather than blindly trust.
+- **computer vision**  
+- **machine learning**
+- **signal processing**
+- **applied research systems**
+- **interfaces for messy, real-world problems**
 
-I like keeping the messy middle visible too: benchmarks, failed assumptions, weird edge cases, and the versions before the clean demo.
-
-</td>
-<td width="38%" valign="top">
-
-### small index
-
-`vision` motion capture  
-`signals` EEG reconstruction  
-`security` smart-grid IDS  
-`voice` MisSpoke  
-`systems` finance / infra experiments  
-`research` applied ML
-
-</td>
-</tr>
-</table>
+I like projects that don’t just *work* — they can also be **measured, inspected, and explained**.
 
 ---
 
-### selected work
+## featured work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ◌ [3D Motion Capture](https://github.com/Mrudula-itsjuzme/Motion-capture)
+### 🎥 [3D Motion Capture](https://github.com/Mrudula-itsjuzme/Motion-capture)
+
 Markerless motion capture using ordinary cameras, with pose tracking, stabilization, 3D reconstruction, gait analysis, and validation tooling.
 
-<sub>computer vision · geometry · gait · OpenCV · MediaPipe · Python</sub>
+<sub>OpenCV · MediaPipe · Panda3D · React · geometry · gait</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### ◌ [Smart Grid Cyberattack Detection](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids)
-Machine-learning based intrusion detection for IEC-104 smart-grid traffic. This work also became my first-author IEEE Access paper.
+### ⚡ [Smart Grid Cyberattack Detection](https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids)
 
-<sub>cybersecurity · machine learning · scikit-learn · Python</sub>
+A machine-learning based intrusion-detection pipeline for IEC-104 smart-grid traffic. This work also became my first-author IEEE Access paper.
+
+<sub>Python · scikit-learn · cybersecurity analytics · evaluation</sub>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-#### ◌ [EEG Reconstruction with ADMM](https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM)
-A graph-signal-processing approach to reconstructing missing EEG data using local graphs and ADMM.
+### 🧠 [EEG Reconstruction with ADMM](https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM)
 
-<sub>signal processing · optimization · NumPy · SciPy · MNE</sub>
+A graph-signal-processing approach for reconstructing missing EEG data using local graphs and ADMM.
+
+<sub>NumPy · SciPy · MNE · optimization · signals</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### ◌ [MisSpoke](https://github.com/Mrudula-itsjuzme/speak134)
+### 🗣️ [MisSpoke](https://github.com/Mrudula-itsjuzme/speak134)
+
 A voice-first language-learning experiment with conversational tutors, translation, memory, and learning analytics.
 
-<sub>Next.js · React · TypeScript · Supabase · voice AI</sub>
+<sub>Next.js · TypeScript · Supabase · voice UX · product</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☀️ [Solar Panel Fault Detection](https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection)
+
+A deep-learning workflow for identifying visual faults in solar panels.
+
+<sub>Python · CNNs · computer vision</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [AI Greenhouse](https://github.com/Mrudula-itsjuzme/ai_greenhouse)
+
+An IoT desktop app for plant monitoring, sensor input, analytics, and automation.
+
+<sub>Python · PyQt5 · Arduino · IoT</sub>
 
 </td>
 </tr>
@@ -84,73 +112,42 @@ A voice-first language-learning experiment with conversational tutors, translati
 
 ---
 
-### the stack, without the sticker wall
+## tech I work with
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td valign="top" width="33%">
 
-#### languages
-
-`Python` `TypeScript` `JavaScript`  
-`C` `SQL`
-
-</td>
-<td width="33%" valign="top">
-
-#### ml / vision / signals
-
-`PyTorch` `TensorFlow` `scikit-learn`  
-`OpenCV` `MediaPipe` `NumPy` `SciPy` `MNE`
+### languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td width="34%" valign="top">
+<td valign="top" width="33%">
 
-#### web / systems
-
-`React` `Next.js` `Node.js`  
-`Supabase` `PostgreSQL` `Docker` `Linux`
-
-</td>
-</tr>
-</table>
-
-<sub>I use tools when a project needs them; this is the set that shows up repeatedly in my work, not a collection of logos I touched once.</sub>
-
----
-
-<table>
-<tr>
-<td width="56%" valign="top">
-
-### more things I've built / studied
-
-**Computer vision**  
-solar-panel fault detection · aircraft detection · motion capture
-
-**Biomedical + signals**  
-EEG reconstruction · EEG denoising · biosignal experiments
-
-**Language + conversational systems**  
-MisSpoke · Rasa chatbot work · language tutor experiments
-
-**Learning systems**  
-Double DQN Tic-Tac-Toe · smaller ML benchmarking projects
-
-**IoT + apps**  
-AI greenhouse · frontend/product experiments · small web tools
+### ml / vision / signals
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0ea5e9?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
 </td>
-<td width="44%" valign="top">
+<td valign="top" width="33%">
 
-### things I care about when building
-
-- evaluation before pretty demos
-- knowing when a model should abstain
-- making noisy data less deceptive
-- reproducible experiments
-- interfaces that expose useful uncertainty
-- keeping prototypes understandable enough to tear apart later
+### web / tools / systems
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -158,37 +155,49 @@ AI greenhouse · frontend/product experiments · small web tools
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## research
 
-### research
+### publications
 
-**Smart Grid Intrusion Detection for IEC 60870-5-104**  
-IEEE Access · 2025 · first author
+- **Smart Grid Intrusion Detection for IEC 60870-5-104**  
+  *IEEE Access, 2025* · first author
 
-**PV fault detection using deep learning**  
-Energy Conversion and Management: X · 2025
+- **PV Fault Detection using Pyramid Network and GRU**  
+  *Energy Conversion and Management: X, 2025*
 
-</td>
-<td width="45%" valign="top">
+---
 
-### elsewhere in the repo pile
+## more corners of this github
 
-There are also smaller experiments in reinforcement learning, optimization, chatbots, IoT, systems, and frontend work.
+A few other things floating around here:
 
-Some are polished. Some are archaeological evidence of me learning something.
+- **EEG / biomedical signal work**
+- **reinforcement learning**
+- **chatbots and conversational systems**
+- **computer vision mini-projects**
+- **IoT experiments**
+- **frontend / UI builds**
+- **learning projects I still keep because they matter too**
 
-I keep both.
+Not everything here is polished. Some of it is the clean final version.  
+Some of it is proof that I learned by building messy things first.
 
-</td>
-</tr>
-</table>
+And honestly? good.
 
-<br/>
+---
+
+## what I care about when building
+
+- making research feel usable  
+- making systems easier to inspect and trust  
+- keeping the weird middle visible — not just the final polished output  
+- turning prototypes into something measurable  
+- balancing technical depth with product sense  
+
+---
 
 <div align="center">
 
-<sub>Coimbatore, India · usually somewhere between a notebook, a terminal, and an irresponsible number of browser tabs.</sub>
+<sub>Coimbatore, India · usually somewhere between a notebook, a terminal, and too many tabs.</sub>
 
 </div>
