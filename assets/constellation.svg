@@ -1,0 +1,50 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#080B14"/>
+    <stop offset="0.48" stop-color="#0D1325"/>
+    <stop offset="1" stop-color="#0A0F1D"/>
+  </linearGradient>
+  <radialGradient id="cyanGlow"><stop stop-color="#22D3EE" stop-opacity=".26"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violetGlow"><stop stop-color="#A78BFA" stop-opacity=".28"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="roseGlow"><stop stop-color="#FB7185" stop-opacity=".22"/><stop offset="1" stop-color="#FB7185" stop-opacity="0"/></radialGradient>
+  <linearGradient id="path" x1="110" y1="120" x2="1080" y2="420" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/><stop offset=".34" stop-color="#A78BFA"/><stop offset=".68" stop-color="#F472B6"/><stop offset="1" stop-color="#F59E0B"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<circle cx="270" cy="160" r="180" fill="url(#cyanGlow)" filter="url(#blur)"><animate attributeName="cx" values="270;320;270" dur="9s" repeatCount="indefinite"/></circle>
+<circle cx="760" cy="160" r="210" fill="url(#violetGlow)" filter="url(#blur)"><animate attributeName="cy" values="160;210;160" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="1030" cy="390" r="170" fill="url(#roseGlow)" filter="url(#blur)"><animate attributeName="cx" values="1030;980;1030" dur="10s" repeatCount="indefinite"/></circle>
+<g opacity=".12" stroke="#94A3B8">
+  <path d="M0 104H1200M0 208H1200M0 312H1200M0 416H1200"/>
+  <path d="M120 0V520M240 0V520M360 0V520M480 0V520M600 0V520M720 0V520M840 0V520M960 0V520M1080 0V520"/>
+</g>
+<text x="58" y="63" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700">selected work / constellation</text>
+<text x="59" y="88" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">six projects, one very non-linear trail</text>
+<g stroke="url(#path)" stroke-width="2" opacity=".68">
+ <path d="M215 185L435 120L650 210L885 145L1000 330L700 390L460 335L215 185"/>
+ <path d="M435 120L460 335M650 210L700 390M885 145L700 390" opacity=".45"/>
+</g>
+<g fill="none" stroke="url(#path)" stroke-width="2" stroke-dasharray="5 12" opacity=".65">
+ <path d="M215 185C410 250 540 70 650 210S870 380 1000 330">
+   <animate attributeName="stroke-dashoffset" values="0;-170" dur="8s" repeatCount="indefinite"/>
+ </path>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <g transform="translate(215 185)"><circle r="11" fill="#22D3EE"/><circle r="23" stroke="#22D3EE" opacity=".35"><animate attributeName="r" values="18;29;18" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;.08;.45" dur="3s" repeatCount="indefinite"/></circle><text x="-60" y="-31" fill="#E6FBFF" font-size="16" font-weight="700">Motion Capture</text><text x="-60" y="-13" fill="#67E8F9" font-size="11">vision · geometry · gait</text></g>
+ <g transform="translate(435 120)"><circle r="9" fill="#A78BFA"/><text x="18" y="-7" fill="#F2ECFF" font-size="15" font-weight="700">Smart Grid IDS</text><text x="18" y="11" fill="#C4B5FD" font-size="11">security · ML</text></g>
+ <g transform="translate(650 210)"><circle r="9" fill="#F472B6"/><circle r="19" stroke="#F472B6" opacity=".3"><animate attributeName="opacity" values=".1;.5;.1" dur="2.6s" repeatCount="indefinite"/></circle><text x="18" y="-7" fill="#FFF0F7" font-size="15" font-weight="700">EEG Reconstruction</text><text x="18" y="11" fill="#F9A8D4" font-size="11">signals · optimization</text></g>
+ <g transform="translate(885 145)"><circle r="9" fill="#F59E0B"/><text x="18" y="-7" fill="#FFF8E7" font-size="15" font-weight="700">MisSpoke</text><text x="18" y="11" fill="#FCD34D" font-size="11">voice · learning</text></g>
+ <g transform="translate(1000 330)"><circle r="9" fill="#34D399"/><text x="18" y="-7" fill="#E9FFF7" font-size="15" font-weight="700">Solar Faults</text><text x="18" y="11" fill="#6EE7B7" font-size="11">CNN · vision</text></g>
+ <g transform="translate(700 390)"><circle r="9" fill="#60A5FA"/><text x="18" y="-7" fill="#ECF6FF" font-size="15" font-weight="700">AI Greenhouse</text><text x="18" y="11" fill="#93C5FD" font-size="11">IoT · desktop</text></g>
+ <g transform="translate(460 335)"><circle r="5" fill="#E2E8F0" opacity=".85"/><text x="-98" y="35" fill="#94A3B8" font-size="11">unfinished edges included</text></g>
+</g>
+<circle r="4" fill="#fff">
+ <animateMotion dur="6s" repeatCount="indefinite" path="M215 185L435 120L650 210L885 145L1000 330"/>
+</circle>
+<circle r="3" fill="#C4B5FD">
+ <animateMotion dur="7.5s" begin="1.8s" repeatCount="indefinite" path="M215 185L460 335L700 390L1000 330"/>
+</circle>
+</svg>
