@@ -4,12 +4,11 @@
 
 <br/>
 
-<a href="#now"><img src="https://img.shields.io/badge/now-22D3EE?style=flat-square&labelColor=0B1220&color=0891B2"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/projects-A78BFA?style=flat-square&labelColor=0B1220&color=7C3AED"/></a>
+<a href="#currently"><img src="https://img.shields.io/badge/currently-22D3EE?style=flat-square&labelColor=0B1220&color=0891B2"/></a>
+<a href="#built--building"><img src="https://img.shields.io/badge/built_%2B_building-A78BFA?style=flat-square&labelColor=0B1220&color=7C3AED"/></a>
 <a href="#research"><img src="https://img.shields.io/badge/research-F472B6?style=flat-square&labelColor=0B1220&color=DB2777"/></a>
-<a href="#toolbox"><img src="https://img.shields.io/badge/toolbox-34D399?style=flat-square&labelColor=0B1220&color=059669"/></a>
-<a href="#community--other-corners"><img src="https://img.shields.io/badge/community-F59E0B?style=flat-square&labelColor=0B1220&color=D97706"/></a>
-<a href="#github-activity"><img src="https://img.shields.io/badge/activity-60A5FA?style=flat-square&labelColor=0B1220&color=2563EB"/></a>
+<a href="#open-source"><img src="https://img.shields.io/badge/open_source-F59E0B?style=flat-square&labelColor=0B1220&color=D97706"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/stack-34D399?style=flat-square&labelColor=0B1220&color=059669"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pedamallusaimrudula"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mrudulasankar2007@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -18,31 +17,31 @@
 
 <br/>
 
-<table id="now">
+<table id="currently">
 <tr>
 <td width="64%" valign="top">
 
-## now ✦
+## currently ✦
 
 I’m **Mrudula**, an AI Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-Most of my work lives where **research, software, and messy real-world systems** collide — especially computer vision, signal processing, machine learning, and experimental product building.
+I keep ending up in projects where a model has to survive contact with something annoying: two badly synchronized cameras, noisy biosignals, adversarial molecular strings, incomplete financial evidence, people speaking into microphones, or a UI that has to make all of that legible.
 
-Lately I’ve been spending most of my time on **markerless motion capture**, gait analysis, deep-learning experiments, evaluation-heavy ML workflows, and tools that make model outputs easier to inspect instead of simply trust.
+Right now the biggest rabbit hole is **markerless motion capture for gait analysis**: stereo reconstruction, pose estimation, temporal cleanup, kinematics, gait events, quality gates, and the much less glamorous question of whether any number coming out of the pipeline deserves to be trusted.
 
-I like keeping the awkward middle visible too: failed assumptions, edge cases, benchmarks, validation, redesigns, and the version before the clean demo.
+I also build products because sometimes the research question needs an interface before it needs another notebook.
 
 </td>
 <td width="36%" valign="top">
 
 ## coordinates ⟡
 
-`vision` 3D motion + gait  
-`signals` EEG reconstruction  
-`security` smart-grid IDS  
-`voice` language learning  
-`research` applied ML  
-`product` interfaces + systems
+`vision` motion + gait  
+`signals` EEG  
+`security` smart grids  
+`robustness` adversarial ML  
+`systems` evaluation + tooling  
+`product` interfaces + apps
 
 <br/>
 
@@ -52,11 +51,7 @@ B.Tech · AI Engineering
 
 <br/>
 
-✦ observe  
-✦ build  
-✦ test  
-✦ rewrite  
-✦ document
+`research ↔ software ↔ product`
 
 </td>
 </tr>
@@ -64,68 +59,82 @@ B.Tech · AI Engineering
 
 <br/>
 
-<a href="#projects"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/constellation.svg" width="100%" alt="Animated constellation of projects"/></a>
+<a href="#built--building"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/constellation.svg" width="100%" alt="Animated constellation of projects"/></a>
 
-## projects
+## built + building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Mrudula-itsjuzme/Motion-capture"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-motion.svg" width="100%" alt="3D Motion Capture project cover"/></a>
+<img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-motion.svg" width="100%" alt="3D Motion Capture project cover"/>
 
-Markerless motion capture from ordinary cameras with pose tracking, dual-camera reconstruction, stabilization, realtime/offline pipelines, gait analysis, and validation tooling.
+### Motion Capture / Gait Analysis
 
-`Python` `OpenCV` `MediaPipe` `Panda3D` `React`
+A dual-camera markerless motion-capture system for 3D human pose and gait analysis: calibration, synchronization, triangulation, temporal stabilization, kinematics, gait metrics, live quality checks, and validation tooling.
+
+`Python` `OpenCV` `MediaPipe` `3D geometry` `gait`
+
+<sub>Research build · repository currently private while validation work is in progress.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-smartgrid.svg" width="100%" alt="Smart Grid IDS project cover"/></a>
+<a href="https://github.com/Mrudula-itsjuzme/cyberbio"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-smartgrid.svg" width="100%" alt="Adversarial materials ML project cover"/></a>
 
-Machine-learning based intrusion detection for IEC 60870-5-104 smart-grid traffic, with benchmarking and publication-oriented evaluation.
+### CyberBio
 
-`Python` `scikit-learn` `cybersecurity` `evaluation`
+Adversarial robustness experiments for materials sequence modelling: chemically valid perturbations, attack search, model-shortcut analysis, adversarial training, and attack/defense evaluation.
+
+`PyTorch` `RDKit` `Transformers` `MCMC` `robustness`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Mrudula-itsjuzme/MFC3_D3_EEG_Recon_ADMM"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-eeg.svg" width="100%" alt="EEG Reconstruction project cover"/></a>
+<a href="https://github.com/Mrudula-itsjuzme/quests"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-greenhouse.svg" width="100%" alt="Quests project cover"/></a>
 
-Graph-signal-processing reconstruction of missing EEG data using local graphs and ADMM.
+### Quests
 
-`NumPy` `SciPy` `MNE` `optimization`
+A mobile-first exploration / habit product with server-authoritative progression, rarity and grading systems, verification flows, append-only coin accounting, and a deliberately strange little forest wrapped around the whole thing.
+
+`React` `Vite` `Supabase` `Express` `Capacitor`
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Mrudula-itsjuzme/razor-pay"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-eeg.svg" width="100%" alt="Finance Controller project cover"/></a>
+
+### Finance Controller
+
+Evidence-first financial reconciliation using graph structure, staged matching, exception handling, provenance checks, and an AI layer that is allowed to explain evidence but not manufacture accounting truth.
+
+`Python` `FastAPI` `NetworkX` `evaluation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Mrudula-itsjuzme/cyberattack-on-smart-grids"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-solar.svg" width="100%" alt="Smart-grid intrusion detection project cover"/></a>
+
+### Smart-grid intrusion detection
+
+ML-based intrusion detection for IEC 60870-5-104 traffic. This work became my first-author IEEE Access paper.
+
+`Python` `scikit-learn` `cybersecurity` `evaluation`
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Mrudula-itsjuzme/speak134"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-misspoke.svg" width="100%" alt="MisSpoke project cover"/></a>
 
-Voice-first language-learning experiment with conversational tutors, translation, memory, and learning analytics.
+### MisSpoke
+
+A voice-first language-learning experiment with conversational tutors, translation, memory, and learning analytics.
 
 `Next.js` `TypeScript` `Supabase` `voice UX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-solar.svg" width="100%" alt="Solar fault detection project cover"/></a>
-
-Deep-learning workflow for identifying visual faults in solar panels.
-
-`Python` `CNNs` `image processing`
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Mrudula-itsjuzme/ai_greenhouse"><img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/project-greenhouse.svg" width="100%" alt="AI Greenhouse project cover"/></a>
-
-Desktop IoT system for plant monitoring, Arduino sensor input, analytics, and automation.
-
-`Python` `PyQt5` `Arduino` `IoT`
 
 </td>
 </tr>
@@ -133,13 +142,13 @@ Desktop IoT system for plant monitoring, Arduino sensor input, analytics, and au
 
 <br/>
 
-## research ✧
+## research
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### publications
+### published
 
 **Smart Grid Intrusion Detection for IEC 60870-5-104**  
 *IEEE Access · 2025 · first author*  
@@ -153,17 +162,15 @@ Desktop IoT system for plant monitoring, Arduino sensor input, analytics, and au
 </td>
 <td width="42%" valign="top">
 
-### how I like to work
+### the recurring question
 
-`01` compare against a baseline  
-`02` measure ugly cases too  
-`03` separate validation from vibes  
-`04` make results inspectable  
-`05` document what changed
+A lot of my projects eventually collapse into the same annoying sentence:
 
-<br/>
+> **what would make this result believable?**
 
-I care less about a lonely accuracy number and more about **why a system deserves confidence**.
+Sometimes the answer is a benchmark. Sometimes a quality gate. Sometimes an ablation, a failure case, provenance, or admitting the system does not know yet.
+
+That part is usually more interesting to me than squeezing another decimal out of the headline metric.
 
 </td>
 </tr>
@@ -171,7 +178,20 @@ I care less about a lonely accuracy number and more about **why a system deserve
 
 <br/>
 
-## toolbox ✦
+## open source
+
+I’m slowly moving from maintaining my own little universes to poking at other people’s very large ones.
+
+- [`Sports2D #41`](https://github.com/davidpagnon/Sports2D/pull/41) · temporal lower-limb left/right swap handling
+- [`NVIDIA-AI-IOT/trt_pose #188`](https://github.com/NVIDIA-AI-IOT/trt_pose/pull/188) · ONNX backend fix for torch2trt conversion notebooks
+- [`Ai-Council #244`](https://github.com/shrixtacy/Ai-Council/pull/244) · manifest-based plugin system with implementation, tests, and docs
+- smaller documentation fixes across NVIDIA repositories while learning unfamiliar codebases
+
+<sub>I care more about whether the patch is useful than whether the repository name looks impressive in a badge row.</sub>
+
+<br/>
+
+## stack
 
 <img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/stack-spectrum.svg" width="100%" alt="Animated stack spectrum"/>
 
@@ -221,67 +241,22 @@ I care less about a lonely accuracy number and more about **why a system deserve
 
 <br/><br/>
 
-## community & other corners
+## elsewhere in the repo pile
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`EEG reconstruction` · `solar fault detection` · `IoT` · `RL` · `frontend experiments` · `systems exercises` · `voice interfaces` · `computer vision`
 
-### beyond projects ◌
-
-- **Init Club** · community and leadership work
-- **IETE AI/ML vertical** involvement
-- research-first academic work
-- product and interface experimentation
-- learning in public through smaller repos
-
-</td>
-<td width="50%" valign="top">
-
-### more repo themes ◌
-
-- biomedical signals
-- reinforcement learning
-- chatbots and conversational systems
-- computer vision mini-projects
-- IoT experiments
-- frontend / UI work
-- systems and foundations
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>why I keep older / smaller repos around</b></summary>
-<br/>
-Not everything here is polished, and I don’t really want it to be. Some repos are finished builds; some are the archaeology of learning a technique for the first time. I keep both because the trail matters.
-</details>
+Some are polished. Some are fossils from learning something the hard way. I’m cleaning the shelf, not pretending the fossils never existed.
 
 <br/>
-
-## github activity ✦
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&bg_color=0B1220&rank_icon=github" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true&title_color=F472B6&text_color=CBD5E1&bg_color=0B1220" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mrudula-itsjuzme&hide_border=true&background=0B1220&stroke=1F2937&ring=22D3EE&fire=A78BFA&currStreakLabel=F8FAFC&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ✦ observe → build → test → rewrite ✦
-
-<sub>research notes becoming software, software becoming another question.</sub>
+<sub>research notes becoming software; software becoming another question.</sub>
 
 <br/><br/>
 
