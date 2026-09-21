@@ -23,13 +23,17 @@
 
 ## currently ✦
 
-I’m **Mrudula**, an AI Engineering student at **Amrita Vishwa Vidyapeetham**.
+I’m **Mrudula**, an **AI Engineering student at Amrita (2024–2028)** working on computer vision, adversarial machine learning, and software systems.
 
-I keep ending up in projects where a model has to survive contact with something annoying: two badly synchronized cameras, noisy biosignals, adversarial molecular strings, incomplete financial evidence, people speaking into microphones, or a UI that has to make all of that legible.
+**First-author IEEE Access researcher · INIT Club co-founder.**
 
-Right now the biggest rabbit hole is **markerless motion capture for gait analysis**: stereo reconstruction, pose estimation, temporal cleanup, kinematics, gait events, quality gates, and the much less glamorous question of whether any number coming out of the pipeline deserves to be trusted.
+- **Research:** [smart-grid intrusion detection](https://doi.org/10.1109/ACCESS.2025.3590151), [PV fault diagnosis](https://doi.org/10.1016/j.ecmx.2025.101293), and [CyberBio](https://github.com/Mrudula-itsjuzme/cyberbio) experiments on polymer bandgap prediction and representation robustness.
+- **Engineering:** dual-camera motion capture, [Quests](https://github.com/Mrudula-itsjuzme/quests) with server-authoritative progression, and [Archis](https://github.com/Mrudula-itsjuzme/Archis), an architecture-software prototype with linked 2D/3D editing.
+- **Looking for:** paid ML/CV or software engineering internships, research opportunities, and builder fellowships.
 
-I also build products because sometimes the research question needs an interface before it needs another notebook.
+I like the part where a promising result has to survive an actual test.
+
+[**Portfolio ↗**](https://mrudula-itsjuzme.github.io/portfolio-site/) · [**Email ↗**](mailto:mrudulasankar2007@gmail.com)
 
 </td>
 <td width="36%" valign="top">
@@ -157,7 +161,8 @@ A voice-first language-learning experiment with conversational tutors, translati
 <br/>
 
 **PV Fault Detection with Pyramid Network + GRU**  
-*Energy Conversion and Management: X · 2025*
+*Energy Conversion and Management: X · 2025 · co-author*  
+[paper ↗](https://doi.org/10.1016/j.ecmx.2025.101293)
 
 </td>
 <td width="42%" valign="top">
