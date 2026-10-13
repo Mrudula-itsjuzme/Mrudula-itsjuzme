@@ -277,8 +277,11 @@ Some are polished. Some are fossils from learning something the hard way. I’m 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mrudula-itsjuzme&show_icons=true&hide_border=true&title_color=A78BFA&text_color=CBD5E1&icon_color=22D3EE&bg_color=0B1220&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudula-itsjuzme&layout=compact&hide_border=true&title_color=F472B6&text_color=CBD5E1&bg_color=0B1220" alt="Top languages"/>
+### activity, not a scoreboard
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrudula-itsjuzme&bg_color=0B1220&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Recent public GitHub contribution activity graph"/>
+
+<sub>Public activity only. GitHub and external image services may cache data, so this is not a live counter.</sub>
 
 <br/><br/>
 
