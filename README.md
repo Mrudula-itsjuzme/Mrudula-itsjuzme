@@ -25,11 +25,11 @@
 
 I’m **Mrudula**, an AI Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-I keep ending up in projects where a model has to survive contact with something annoying: two badly synchronized cameras, noisy biosignals, adversarial molecular strings, incomplete financial evidence, people speaking into microphones, or a UI that has to make all of that legible.
+I work on computer vision, ML, and software projects. Most of my time goes into building things, testing them, finding what breaks, and fixing it.
 
-These days I split my attention between **trust-aware markerless motion capture** and **compiler engineering**. One asks whether a 3D gait measurement is reliable enough to report; the other asks whether an LLVM optimization is actually semantics-preserving. Different machinery, same obsession with evidence.
+Lately I've been working on **markerless motion capture and gait analysis**, and getting into **LLVM compiler optimizations**. I like both the research side and the engineering it takes to make a project usable.
 
-I also build products because sometimes the research question needs an interface before it needs another notebook.
+I also make apps and occasionally write poetry.
 
 </td>
 <td width="36%" valign="top">
@@ -67,7 +67,7 @@ B.Tech · AI Engineering
 
 [repository ↗](https://github.com/Mrudula-itsjuzme/forge-llvm)
 
-An out-of-tree LLVM New Pass Manager project exploring conservative integer optimization. The public repository has a tested local CSE implementation; a **multi-pass v2 developed locally** extends that work with local/global CSE, dominator-aware reuse, conservative LICM, static target analysis, differential correctness tests, and an HPC benchmark campaign. I keep correctness evidence separate from performance claims, because passing tests is not a speedup.
+An LLVM pass plugin for CPU optimizations. The public version implements local common subexpression elimination (CSE). I've also been building a local v2 with global CSE, loop-invariant code motion (LICM), correctness tests, and benchmarks.
 
 `C++` `LLVM` `CMake` `compiler passes` `x86-64` `AArch64` `SVE2`
 
@@ -177,15 +177,9 @@ A voice-first language-learning experiment with conversational tutors, translati
 </td>
 <td width="42%" valign="top">
 
-### the recurring question
+### what I'm interested in
 
-A lot of my projects eventually collapse into the same annoying sentence:
-
-> **what would make this result believable?**
-
-Sometimes the answer is a benchmark. Sometimes a quality gate. Sometimes an ablation, a failure case, provenance, or admitting the system does not know yet.
-
-That part is usually more interesting to me than squeezing another decimal out of the headline metric.
+Computer vision, ML robustness, systems, and tools that are actually useful. I enjoy the messy part of research too: debugging, comparing approaches, and figuring out why something didn't work.
 
 </td>
 </tr>
@@ -195,20 +189,20 @@ That part is usually more interesting to me than squeezing another decimal out o
 
 ## open source
 
-I’m slowly moving from maintaining my own little universes to poking at other people’s very large ones.
+Some open-source contributions:
 
 - [`Sports2D #41`](https://github.com/davidpagnon/Sports2D/pull/41) · temporal lower-limb left/right swap handling
 - [`NVIDIA-AI-IOT/trt_pose #188`](https://github.com/NVIDIA-AI-IOT/trt_pose/pull/188) · ONNX backend fix for torch2trt conversion notebooks
 - [`Ai-Council #244`](https://github.com/shrixtacy/Ai-Council/pull/244) · manifest-based plugin system with implementation, tests, and docs
 - contributions to NVIDIA NeMo/Speech and DALI repositories, including merged pull requests
 
-<sub>I care more about whether the patch is useful than whether the repository name looks impressive in a badge row.</sub>
+
 
 <br/>
 
 ## community + leadership
 
-Co-founder and **Vice President (Non-Tech), [INIT Club](https://github.com/init-club)**, where I work on student-led open source and developer events. Co-organized **MLH Hacktoberfest Hack Day Coimbatore 2026** with INIT × iDEA Club, from participant flow and submissions to the actual day-of-event chaos. Also a member of **iDEA Club**, interested in taking ideas beyond the slide-deck stage.
+Co-founder and **VP (Non-Tech) of [INIT Club](https://github.com/init-club)**. I help run workshops, hackathons, and open-source events. I co-organized **MLH Hacktoberfest Hack Day Coimbatore 2026** with INIT and iDEA Club. I'm also a member of **iDEA Club**.
 
 Outside code, I write poetry and essays. My piece on AI and human creativity appeared in *The Daffodils*.
 
@@ -263,7 +257,7 @@ Outside code, I write poetry and essays. My piece on AI and human creativity app
 </tr>
 </table>
 
-<sub>Not a skills census. Just the recurring cast.</sub>
+
 
 <br/><br/>
 
@@ -271,21 +265,13 @@ Outside code, I write poetry and essays. My piece on AI and human creativity app
 
 `EEG reconstruction` · `solar fault detection` · `IoT` · `RL` · `frontend experiments` · `systems exercises` · `voice interfaces` · `computer vision`
 
-Some are polished. Some are fossils from learning something the hard way. I’m cleaning the shelf, not pretending the fossils never existed.
+A mix of finished projects, experiments, and stuff I'm still working on.
 
 <br/>
 
 <div align="center">
 
-### activity, not a scoreboard
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrudula-itsjuzme&bg_color=0B1220&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Recent public GitHub contribution activity graph"/>
-
-<sub>Public activity only. GitHub and external image services may cache data, so this is not a live counter.</sub>
-
-<br/><br/>
-
-<sub>research notes becoming software; software becoming another question.</sub>
+<sub>Thanks for stopping by.</sub>
 
 <br/><br/>
 
