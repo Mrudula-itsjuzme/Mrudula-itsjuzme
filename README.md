@@ -271,6 +271,10 @@ A mix of finished projects, experiments, and stuff I'm still working on.
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Mrudula-itsjuzme/Mrudula-itsjuzme/main/assets/contributions.svg" width="100%" alt="GitHub contribution calendar for the past year"/>
+
+<br/>
+
 <sub>Thanks for stopping by.</sub>
 
 <br/><br/>
