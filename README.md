@@ -27,7 +27,7 @@ I’m **Mrudula**, an AI Engineering student at **Amrita Vishwa Vidyapeetham**.
 
 I keep ending up in projects where a model has to survive contact with something annoying: two badly synchronized cameras, noisy biosignals, adversarial molecular strings, incomplete financial evidence, people speaking into microphones, or a UI that has to make all of that legible.
 
-Right now the biggest rabbit hole is **markerless motion capture for gait analysis**: stereo reconstruction, pose estimation, temporal cleanup, kinematics, gait events, quality gates, and the much less glamorous question of whether any number coming out of the pipeline deserves to be trusted.
+These days I split my attention between **trust-aware markerless motion capture** and **compiler engineering**. One asks whether a 3D gait measurement is reliable enough to report; the other asks whether an LLVM optimization is actually semantics-preserving. Different machinery, same obsession with evidence.
 
 I also build products because sometimes the research question needs an interface before it needs another notebook.
 
@@ -40,7 +40,7 @@ I also build products because sometimes the research question needs an interface
 `signals` EEG  
 `security` smart grids  
 `robustness` adversarial ML  
-`systems` evaluation + tooling  
+`systems` LLVM + evaluation  
 `product` interfaces + apps
 
 <br/>
@@ -63,6 +63,16 @@ B.Tech · AI Engineering
 
 ## built + building
 
+### Forge · LLVM optimization toolkit
+
+[repository ↗](https://github.com/Mrudula-itsjuzme/forge-llvm)
+
+An out-of-tree LLVM New Pass Manager project exploring conservative integer optimization. The public repository has a tested local CSE implementation; a **multi-pass v2 developed locally** extends that work with local/global CSE, dominator-aware reuse, conservative LICM, static target analysis, differential correctness tests, and an HPC benchmark campaign. I keep correctness evidence separate from performance claims, because passing tests is not a speedup.
+
+`C++` `LLVM` `CMake` `compiler passes` `x86-64` `AArch64` `SVE2`
+
+<sub>Multi-pass v2 is local work; the linked public README may still describe the earlier implementation.</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -71,11 +81,11 @@ B.Tech · AI Engineering
 
 ### Motion Capture / Gait Analysis
 
-A dual-camera markerless motion-capture system for 3D human pose and gait analysis: calibration, synchronization, triangulation, temporal stabilization, kinematics, gait metrics, live quality checks, and validation tooling.
+A dual-camera markerless motion-capture system for 3D human pose and gait analysis: calibration, synchronization, triangulation, temporal stabilization, kinematics, gait metrics, and evidence-aware quality gates that can abstain when a measurement is not supported.
 
 `Python` `OpenCV` `MediaPipe` `3D geometry` `gait`
 
-<sub>Research build · repository currently private while validation work is in progress.</sub>
+<sub>[MoCap Studio repository ↗](https://github.com/Mrudula-itsjuzme/Motion-capture) · Engineering diagnostics are not clinical validation.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +167,12 @@ A voice-first language-learning experiment with conversational tutors, translati
 <br/>
 
 **PV Fault Detection with Pyramid Network + GRU**  
-*Energy Conversion and Management: X · 2025*
+*Energy Conversion and Management: X · 2025 · co-author*
+
+<br/>
+
+**Edge Anomaly Detection / IoT**  
+*IDCIoT 2027 · accepted for presentation (January 2027)*
 
 </td>
 <td width="42%" valign="top">
@@ -185,9 +200,17 @@ I’m slowly moving from maintaining my own little universes to poking at other 
 - [`Sports2D #41`](https://github.com/davidpagnon/Sports2D/pull/41) · temporal lower-limb left/right swap handling
 - [`NVIDIA-AI-IOT/trt_pose #188`](https://github.com/NVIDIA-AI-IOT/trt_pose/pull/188) · ONNX backend fix for torch2trt conversion notebooks
 - [`Ai-Council #244`](https://github.com/shrixtacy/Ai-Council/pull/244) · manifest-based plugin system with implementation, tests, and docs
-- smaller documentation fixes across NVIDIA repositories while learning unfamiliar codebases
+- contributions to NVIDIA NeMo/Speech and DALI repositories, including merged pull requests
 
 <sub>I care more about whether the patch is useful than whether the repository name looks impressive in a badge row.</sub>
+
+<br/>
+
+## community + leadership
+
+Co-founder and **Vice President (Non-Tech), [INIT Club](https://github.com/init-club)**, where I work on student-led open source and developer events. Co-organized **MLH Hacktoberfest Hack Day Coimbatore 2026** with INIT × iDEA Club, from participant flow and submissions to the actual day-of-event chaos. Also a member of **iDEA Club**, interested in taking ideas beyond the slide-deck stage.
+
+Outside code, I write poetry and essays. My piece on AI and human creativity appeared in *The Daffodils*.
 
 <br/>
 
@@ -205,6 +228,7 @@ I’m slowly moving from maintaining my own little universes to poking at other 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
@@ -232,6 +256,8 @@ I’m slowly moving from maintaining my own little universes to poking at other 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 </td>
 </tr>
