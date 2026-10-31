@@ -10,6 +10,8 @@
 <a href="#open-source"><img src="https://img.shields.io/badge/open_source-F59E0B?style=flat-square&labelColor=0B1220&color=D97706"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/stack-34D399?style=flat-square&labelColor=0B1220&color=059669"/></a>
 &nbsp;&nbsp;
+<a href="https://mrudula.tech/"><img src="https://img.shields.io/badge/portfolio-mrudula.tech-8B5CF6?style=flat-square"/></a>
+<a href="https://orcid.org/0009-0006-4134-4450"><img src="https://img.shields.io/badge/ORCID-0009--0006--4134--4450-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pedamallusaimrudula"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mrudulasankar2007@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -154,6 +156,9 @@ A voice-first language-learning experiment with conversational tutors, translati
 
 ## research
 
+Published as **Pedamallu Sai Mrudula** and **Sai Mrudula Pedamallu**. [Research and engineering profile ↗](https://mrudula.tech/profile.html) · [ORCID ↗](https://orcid.org/0009-0006-4134-4450)
+
+
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -162,12 +167,13 @@ A voice-first language-learning experiment with conversational tutors, translati
 
 **Smart Grid Intrusion Detection for IEC 60870-5-104**  
 *IEEE Access · 2025 · first author*  
-[paper ↗](https://ieeexplore.ieee.org/document/11083563)
+[paper / DOI ↗](https://doi.org/10.1109/ACCESS.2025.3590151)
 
 <br/>
 
-**PV Fault Detection with Pyramid Network + GRU**  
-*Energy Conversion and Management: X · 2025 · co-author*
+**Lightweight hierarchical spatial feature extraction and sequential modeling for PV fault detection using pyramid network and GRU for edge applications**  
+*Energy Conversion and Management: X · 2025 · co-author*  
+[paper / DOI ↗](https://doi.org/10.1016/j.ecmx.2025.101293)
 
 <br/>
 
